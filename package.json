@@ -1,7 +1,6 @@
 {
-    "name": "my-fun-project",
-    "author": "Evan Hahn",
-    "private": "true",
+    "name": "after-school-lab",
+    "author": "Nibras Siddiqui",
     "version": "0.2.0",
     "dependencies": {
         "cors": "^2.8.5",
@@ -10,5 +9,12 @@
         "mongodb": "^6.3.0",
         "morgan": "^1.10.0",
         "properties-reader": "^2.3.0"
+ 
+ 
+    },
+
+    "scripts": {
+        "start": "node server.js"
     }
+
 }
